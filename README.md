@@ -31,7 +31,7 @@ teléfono: +569 2069 4994
   
    
    
-   ![Landing page en construcción](https://csgutierm.github.io/Portafolio/)
+[Landing page en construcción](https://csgutierm.github.io/Portafolio/)
   
 
 
