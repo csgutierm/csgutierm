@@ -27,7 +27,7 @@ En la actualidad formo parte del proyecto de Talento digital para Chile formánd
 
 e-mail: csgutier@gmail.com  
 o  
-teléfono: +569 2069 4994   
+teléfono: +56 9 2069 4994   
   
    
    
