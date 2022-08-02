@@ -13,7 +13,7 @@ Tecnologías informáticas
 
 - 💬  ¿Cuál es tu formación?
 
-Profesor de matemática y Desarrollador de aplicaciones  
+Desarrollador de aplicaciones y Profesor de Matemática con mención en Computación 
   
 
 - 👯 ¿Cuáles son tus experiencias previas? y en caso de que no tengas ¿por qué
