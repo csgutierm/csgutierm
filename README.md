@@ -33,7 +33,9 @@ teléfono: +56 9 2069 4994
    
 [Landing page en construcción](https://csgutierm.github.io/Portafolio/)
   
-
+- 🌱 I’m currently 
+20-08-2022 Successful Heroku deploy (full online Spring Boot MVC page with postgres database interaction)
+21-08-2022 Start of LWJGL 3 TCG (include previous database development)
 
 <!--
 **csgutierm/csgutierm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
