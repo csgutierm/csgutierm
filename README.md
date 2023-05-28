@@ -27,7 +27,7 @@ En la actualidad formo parte del proyecto de Talento digital para Chile formánd
 
 e-mail: csgutier@gmail.com  
 o  
-teléfono: +56 9 2069 4994   
+WhatsApp: +56 9 2069 4994   
   
    
    
@@ -38,6 +38,10 @@ teléfono: +56 9 2069 4994
 20-08-2022: Successful Heroku deploy (full online Spring Boot MVC page with postgres database interaction) 
  
 21-08-2022: Start of LWJGL 3 TCG (include previous database development)
+
+11-11-2022: Working fulltime in an Enterprise that offer CRM-BPM-Contact Center-Apps Web and Mobile.
+
+24-03-2023: Bootcamp ANDROID TRAINEE
 
 <!--
 **csgutierm/csgutierm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
