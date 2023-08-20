@@ -20,7 +20,7 @@ Desarrollador de aplicaciones y Profesor de Matemática con mención en Computac
 deberían contactarte?
 
 Profesor de enseñanza media en el sistema público chileno, en el preuniversitario CEPECH y clases/cursos particulares. 
-~~En la actualidad formo parte del proyecto de Talento digital para Chile formándome como Desarrollador de aplicaciones Full Stack Java.~~
+~~En la actualidad formo parte del proyecto de Talento digital para Chile formándome como Desarrollador de aplicaciones Full Stack Java.~~ 
 En la actualidad me encuentro escribiendo código para la empresa Din... , en mi tiempo libre estudiando, viendo series, jugando, etc.  
   
 
