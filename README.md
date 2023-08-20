@@ -20,7 +20,8 @@ Desarrollador de aplicaciones y Profesor de Matemática con mención en Computac
 deberían contactarte?
 
 Profesor de enseñanza media en el sistema público chileno, en el preuniversitario CEPECH y clases/cursos particulares. 
-En la actualidad formo parte del proyecto de Talento digital para Chile formándome como Desarrollador de aplicaciones Full Stack Java.  
+~~En la actualidad formo parte del proyecto de Talento digital para Chile formándome como Desarrollador de aplicaciones Full Stack Java.~~
+En la actualidad me encuentro escribiendo código para la empresa Din... , en mi tiempo libre estudiando, viendo series, jugando, etc.  
   
 
 - 📫 ¿Cómo y a través de qué medios te pueden contactar?
@@ -42,6 +43,8 @@ WhatsApp: +56 9 2069 4994
 11-11-2022: Working fulltime in an Enterprise that offer CRM-BPM-Contact Center-Apps Web and Mobile.
 
 24-03-2023: Bootcamp ANDROID TRAINEE
+
+01-07-2023: Google Data Analytics
 
 <!--
 **csgutierm/csgutierm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
