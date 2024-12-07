@@ -47,6 +47,8 @@ WhatsApp: +56 9 2069 4994
 
 01-07-2023: Google Data Analytics
 
+01-05-2024: Bootcamp Python
+
 <!--
 **csgutierm/csgutierm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
